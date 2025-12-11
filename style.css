@@ -8,12 +8,12 @@
     --cream: hsl(30, 38%, 92%);
     --white: hsl(0, 0%, 100%);
 
-    --size-2xs: 0.31rem; /*5*/
-    --size-xs: 0.625rem; /*10*/
-    --size-sm: 0.75rem; /*12*/
-    --size-md: 0.94rem; /*15*/
-    --size-lg: 1.75rem; /*28*/
-    --size-xl: 12.5rem; /*200*/
+    --size-2xs: 0.31rem;
+    --size-xs: 0.625rem; 
+    --size-sm: 0.75rem; 
+    --size-md: 0.94rem; 
+    --size-lg: 1.75rem; 
+    --size-xl: 12.5rem; 
 }
 
 * {
