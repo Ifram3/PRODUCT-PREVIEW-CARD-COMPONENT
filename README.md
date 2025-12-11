@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Ifram3/frontendmentor.io-projects/tree/a18538f1429102663250c0d37d3acc3ce17782fb/product-preview-card-component-main)
+- Solution URL: [Solution](https://github.com/Ifram3/PRODUCT-PREVIEW-CARD-COMPONENT)
 - Live Site URL: [Live Site](https://aromacard.netlify.app/)
 
 ## My process
